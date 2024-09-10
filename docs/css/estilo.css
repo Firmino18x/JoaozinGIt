@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+    box-shadow: 0 0 15px;
+}
+label, input{
+
+}
+.alinhaform{
+    margin: 0 auto;
+    width: 70%;
+    background-color: antiquewhite;
+    padding: 3%;
+}
